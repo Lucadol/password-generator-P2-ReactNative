@@ -248,6 +248,7 @@ const styles = StyleSheet.create({
   },
   secondaryBtnTxt: {
     textAlign: 'center',
+    paddingTop: 7,
   },
   card: {
     padding: 12,
